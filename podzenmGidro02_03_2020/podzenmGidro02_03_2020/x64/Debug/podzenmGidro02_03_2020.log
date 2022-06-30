@@ -1,0 +1,5 @@
+﻿  Source.cpp
+Source.obj : error LNK2005: "double L" (?L@@3NA) уже определен в podzenmGidro02_03_2020.obj
+Source.obj : error LNK2005: "double Left" (?Left@@3NA) уже определен в podzenmGidro02_03_2020.obj
+Source.obj : error LNK2005: "double Right" (?Right@@3NA) уже определен в podzenmGidro02_03_2020.obj
+C:\Users\vklet\source\repos\podzenmGidro02_03_2020\x64\Debug\podzenmGidro02_03_2020.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
